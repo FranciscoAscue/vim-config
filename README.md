@@ -1,4 +1,4 @@
-Personal configutation vim
+Personal Vim Configuration
 ====================================
 
 ## Requirements
